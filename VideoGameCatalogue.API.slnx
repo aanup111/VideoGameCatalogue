@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="VideoGameCatalogue.API/VideoGameCatalogue.API.csproj" />
+  <Project Path="VideoGameCatalogue.Core/VideoGameCatalogue.Core.csproj" />
+  <Project Path="VideoGameCatalogue.Data/VideoGameCatalogue.Data.csproj" />
+  <Project Path="VideoGameCatalogue.Services/VideoGameCatalogue.Services.csproj" />
+  <Project Path="VideoGameCatalogue.Tests/VideoGameCatalogue.Tests.csproj" Id="b67a1246-8d29-4926-a251-92ce498cc3a0" />
+</Solution>

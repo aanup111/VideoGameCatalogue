@@ -1,0 +1,17 @@
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.csproj.AssemblyReference.cache
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.AssemblyInfoInputs.cache
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.AssemblyInfo.cs
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.csproj.CoreCompileInputs.cache
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\bin\Debug\net10.0\VideoGameCatalogue.Data.deps.json
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\bin\Debug\net10.0\VideoGameCatalogue.Data.runtimeconfig.json
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\bin\Debug\net10.0\VideoGameCatalogue.Data.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\bin\Debug\net10.0\VideoGameCatalogue.Data.pdb
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\bin\Debug\net10.0\VideoGameCatalogue.Core.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\bin\Debug\net10.0\VideoGameCatalogue.Core.pdb
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGam.3225632F.Up2Date
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\refint\VideoGameCatalogue.Data.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.pdb
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\VideoGameCatalogue.Data.genruntimeconfig.cache
+C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Data\obj\Debug\net10.0\ref\VideoGameCatalogue.Data.dll
