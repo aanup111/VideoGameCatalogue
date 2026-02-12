@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ND7e0p+l5BM=",
+  "dgSpecHash": "Kqrh1qxk57M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj",
+  "projectFilePath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aghimire\\.nuget\\packages\\azure.core\\1.47.1\\azure.core.1.47.1.nupkg.sha512",
     "C:\\Users\\aghimire\\.nuget\\packages\\azure.identity\\1.14.2\\azure.identity.1.14.2.nupkg.sha512",

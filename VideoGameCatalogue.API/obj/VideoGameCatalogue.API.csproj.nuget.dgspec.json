@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj": {}
+    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj": {
+    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj",
+        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj",
         "projectName": "VideoGameCatalogue.API",
-        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj",
+        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.API\\VideoGameCatalogue.API.csproj",
         "packagesPath": "C:\\Users\\aghimire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.API\\obj\\",
+        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
-                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj"
+              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj"
               },
-              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj": {
-                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj"
+              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj": {
+                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj"
               },
-              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj": {
-                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj"
+              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj": {
+                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj"
               }
             }
           }
@@ -512,14 +512,14 @@
         }
       }
     },
-    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
+    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj",
+        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj",
         "projectName": "VideoGameCatalogue.Core",
-        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj",
+        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj",
         "packagesPath": "C:\\Users\\aghimire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\obj\\",
+        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -851,14 +851,14 @@
         }
       }
     },
-    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj": {
+    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj",
+        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj",
         "projectName": "VideoGameCatalogue.Data",
-        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj",
+        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Data\\VideoGameCatalogue.Data.csproj",
         "packagesPath": "C:\\Users\\aghimire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Data\\obj\\",
+        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -879,8 +879,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
-                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj"
+              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj"
               }
             }
           }
@@ -1210,14 +1210,14 @@
         }
       }
     },
-    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj": {
+    "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj",
+        "projectUniqueName": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj",
         "projectName": "VideoGameCatalogue.Services",
-        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj",
+        "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Services\\VideoGameCatalogue.Services.csproj",
         "packagesPath": "C:\\Users\\aghimire\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Services\\obj\\",
+        "outputPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Services\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1238,8 +1238,8 @@
           "net10.0": {
             "targetAlias": "net10.0",
             "projectReferences": {
-              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
-                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue.API\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj"
+              "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj": {
+                "projectPath": "C:\\Users\\aghimire\\source\\repos\\VideoGameCatalogue\\VideoGameCatalogue.Core\\VideoGameCatalogue.Core.csproj"
               }
             }
           }

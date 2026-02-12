@@ -9,3 +9,15 @@ C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Core\ob
 C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Core\obj\Debug\net10.0\refint\VideoGameCatalogue.Core.dll
 C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.pdb
 C:\Users\aghimire\source\repos\VideoGameCatalogue.API\VideoGameCatalogue.Core\obj\Debug\net10.0\ref\VideoGameCatalogue.Core.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\bin\Debug\net10.0\VideoGameCatalogue.Core.deps.json
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\bin\Debug\net10.0\VideoGameCatalogue.Core.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\bin\Debug\net10.0\VideoGameCatalogue.Core.pdb
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.AssemblyInfoInputs.cache
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.AssemblyInfo.cs
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.csproj.CoreCompileInputs.cache
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.sourcelink.json
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\refint\VideoGameCatalogue.Core.dll
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\VideoGameCatalogue.Core.pdb
+C:\Users\aghimire\source\repos\VideoGameCatalogue\VideoGameCatalogue.Core\obj\Debug\net10.0\ref\VideoGameCatalogue.Core.dll

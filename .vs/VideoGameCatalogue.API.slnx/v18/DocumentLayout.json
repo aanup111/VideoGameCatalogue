@@ -66,8 +66,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Data\\Migrations\\20260212210842_InitialCreate.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T21:08:42.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T21:08:42.373Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "VideoGameCatalogue.API\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-02-12T20:54:37.02Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T20:54:37.02Z"
             },
             {
               "$type": "Document",
@@ -105,8 +103,7 @@
               "RelativeToolTip": "VideoGameCatalogue.API\\Controllers\\VideoGamesController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T01:02:28.345Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T01:02:28.345Z"
             },
             {
               "$type": "Document",
@@ -118,8 +115,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Services\\VideoGameService.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAgwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:45:56.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T00:45:56.607Z"
             },
             {
               "$type": "Document",
@@ -131,8 +127,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Core\\Interfaces\\IVideoGameService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:43:11.937Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T00:43:11.937Z"
             },
             {
               "$type": "Document",
@@ -144,8 +139,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Data\\VideoGameRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:27:35.067Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T00:27:35.067Z"
             },
             {
               "$type": "Document",
@@ -157,8 +151,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Core\\Interfaces\\IVideoGameRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:21:50.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T00:21:50.154Z"
             },
             {
               "$type": "Document",
@@ -170,8 +163,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Data\\VideoGameSeedData.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-12T00:08:57.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-12T00:08:57.531Z"
             },
             {
               "$type": "Document",
@@ -183,8 +175,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Data\\VideoGameCatalogueContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T23:17:59.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T23:17:59.35Z"
             },
             {
               "$type": "Document",
@@ -196,8 +187,7 @@
               "RelativeToolTip": "VideoGameCatalogue.Core\\Models\\VideoGame.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-11T22:21:58.452Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-11T22:21:58.452Z"
             }
           ]
         }

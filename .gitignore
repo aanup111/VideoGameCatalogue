@@ -1,0 +1,9 @@
+# .NET
+bin/
+obj/
+*.user
+
+# Angular
+VideoGameCatalogue.Client/node_modules/
+VideoGameCatalogue.Client/dist/
+VideoGameCatalogue.Client/.angular/
