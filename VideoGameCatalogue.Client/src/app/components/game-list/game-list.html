@@ -1,31 +1,46 @@
-<div class="d-flex justify-content-between align-items-center mb-3">
+<div class="d-flex justify-content-between align-items-center mb-4">
   <h2>Browse Games</h2>
-  <a class="btn btn-primary" [routerLink]="['/create']">Add New Game</a>
+  <a class="btn btn-primary" [routerLink]="['/create']">+ Add New Game</a>
 </div>
 
-<table class="table table-striped">
-  <thead>
-    <tr>
-      <th>Title</th>
-      <th>Genre</th>
-      <th>Platform</th>
-      <th>Price</th>
-      <th>Rating</th>
-      <th>Actions</th>
-    </tr>
-  </thead>
-  <tbody>
-    @for (game of games; track game.id) {
+<div class="card shadow-sm">
+  <div class="table-responsive">
+    <table class="table table-hover mb-0">
+      <thead class="table-dark">
         <tr>
-            <td>{{ game.title }}</td>
+          <th>Title</th>
+          <th>Genre</th>
+          <th>Platform</th>
+          <th>Release Date</th>
+          <th>Price</th>
+          <th>Rating</th>
+          <th>Description</th>
+          <th class="text-center">Actions</th>
+        </tr>
+      </thead>
+      <tbody>
+        @for (game of games; track game.id) {
+          <tr>
+            <td class="fw-bold">{{ game.title }}</td>
             <td>{{ game.genre }}</td>
             <td>{{ game.platform }}</td>
+            <td>{{ game.releaseDate | date:'yyyy-MM-dd' }}</td>
             <td>{{ game.price | currency }}</td>
-            <td>{{ game.rating }}</td>
             <td>
-                <a class="btn btn-sm btn-outline-primary" [routerLink]="['/edit', game.id]">Edit</a>
+              <span class="badge rounded-pill"
+                [class.bg-success]="game.rating >= 8"
+                [class.bg-warning]="game.rating >= 5 && game.rating < 8"
+                [class.bg-danger]="game.rating < 5">
+                {{ game.rating }}/10
+              </span>
             </td>
-        </tr>
-}
-  </tbody>
-</table>
+            <td class="text-muted small">{{ game.description || '—' }}</td>
+            <td class="text-center">
+              <a class="btn btn-sm btn-outline-primary" [routerLink]="['/edit', game.id]">Edit</a>
+            </td>
+          </tr>
+        }
+      </tbody>
+    </table>
+  </div>
+</div>

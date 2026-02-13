@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { VideoGameService } from '../../services/video-game';
 import { VideoGame } from '../../models/video-game.model';
@@ -13,13 +13,19 @@ import { CommonModule } from '@angular/common';
 export class GameList implements OnInit {
   games: VideoGame[] = [];
 
-  constructor(private gameService: VideoGameService) {}
+ constructor(
+    private gameService: VideoGameService,
+    private cdr: ChangeDetectorRef
+) {}
 
   // Runs on component load
-  ngOnInit(): void {
+ ngOnInit(): void {
     this.gameService.getAll().subscribe({
-      next: (data) => this.games = data,
+      next: (data) => {
+        this.games = data;
+        this.cdr.detectChanges();
+      },
       error: (err) => console.error('Failed to load games', err)
     });
-  }
+}
 }

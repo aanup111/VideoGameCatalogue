@@ -1,7 +1,9 @@
 # .NET
 bin/
 obj/
+.vs/
 *.user
+*.suo
 
 # Angular
 VideoGameCatalogue.Client/node_modules/

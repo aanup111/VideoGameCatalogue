@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, OnInit, ChangeDetectorRef } from '@angular/core';
 import { ActivatedRoute, Router, RouterLink } from '@angular/router';
 import { FormsModule } from '@angular/forms';
 import { CommonModule } from '@angular/common';
@@ -26,23 +26,28 @@ export class GameForm implements OnInit {
   isEditMode = false;
   errorMessage: string | null = null;
 
-  constructor(
+constructor(
     private gameService: VideoGameService,
     private route: ActivatedRoute,
-    private router: Router
-  ) {}
+    private router: Router,
+    private cdr: ChangeDetectorRef
+) {}
 
   ngOnInit(): void {
     // Check if there's an id in the route to determine edit vs create 
     const id = this.route.snapshot.paramMap.get('id');
 
-    if (id) {
-      this.isEditMode = true;
-      this.gameService.getById(+id).subscribe({
-        next: (data) => this.game = data,
+   if (id) {
+    this.isEditMode = true;
+    this.gameService.getById(+id).subscribe({
+        next: (data) => {
+                          this.game = data;
+                          this.game.releaseDate = data.releaseDate.substring(0, 10);
+                          this.cdr.detectChanges();
+                      },
         error: () => this.errorMessage = 'Game not found.'
-      });
-    }
+    });
+}
   }
 
   onSubmit(): void {
@@ -52,7 +57,10 @@ export class GameForm implements OnInit {
 
     action.subscribe({
       next: () => this.router.navigate(['/']),
-      error: (err) => this.errorMessage = err.error || 'Something went wrong.'
+      error: (err) => {
+        this.errorMessage = err.error || 'Something went wrong.';
+        this.cdr.detectChanges();
+      }
     });
-  }
+}
 }

@@ -105,5 +105,22 @@ namespace VideoGameCatalogue.Tests
 
             Assert.Equal("Valorant", result.Title);
         }
+
+        // Test method for creating game with future date
+        [Fact]
+        public async Task CreateAsync_ThrowsException_WhenReleaseDateIsInFuture()
+        {
+            var game = new VideoGame
+            {
+                Title = "Future Game",
+                Genre = "RPG",
+                Platform = "PC",
+                Price = 29.99m,
+                Rating = 8.0,
+                ReleaseDate = DateTime.Now.AddYears(1)
+            };
+
+            await Assert.ThrowsAsync<ArgumentException>(() => _service.CreateAsync(game));
+        }
     }
 }
