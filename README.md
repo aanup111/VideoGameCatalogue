@@ -37,6 +37,8 @@ A full-stack video game catalogue application built with ASP.NET Core Web API an
 1. Install SQL Server Express
 2. Update the connection string in `VideoGameCatalogue.API/appsettings.json` to point to your local database
 3. Run migrations in Package Manager Console to update database with seed data:
+    In Visual Studio: Tools → NuGet Package Manager → Package Manager Console. Make sure the Default project dropdown is set to VideoGameCatalogue.Data and run command below.
+    
    ```
    Update-Database
    ```
